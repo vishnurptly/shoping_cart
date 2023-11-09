@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+jsp-content-type//src/main/java/Login/Addservlet.java=application/xhtml+xml
+jsp-content-type/<project>=application/xhtml+xml
+jsp-language//src/main/java/Login/Addservlet.java=java
+jsp-language/<project>=java
